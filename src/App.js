@@ -11,6 +11,7 @@ import { WebSeriesMoviePage10, WebSeriesMoviePage2, WebSeriesMoviePage3, WebSeri
 import { Serise1 } from './Componet/WebSeriesMovieSeason';
 import { Season1 } from './Componet/WebSeriesMovieSeasonPage';
 import './Style.css';
+import { HMovie1 } from './Componet/HollywoodMove';
 
 function App() {
   return (
@@ -94,35 +95,7 @@ function App() {
       <Route path='/serise1' element={<Serise1/>}></Route>
       <Route path='/Season1' element={<Season1/>}></Route>
       <Route path='/BlackAdam' element={<HPage1/>}></Route>
-      <Route path='/GhostRider' element={<HPage2/>}></Route>
-      <Route path='/GuaroiansGalaxy' element={<HPage3/>}></Route>
-      <Route path='/ProjectLegion' element={<HPage4/>}></Route>
-      <Route path='/EagleEye' element={<HPage5/>}></Route>
-      <Route path='/ThePerfectNanny' element={<HPage6/>}></Route>
-      <Route path='/AHardDay' element={<HPage7/>}></Route>
-      <Route path='/BeWithYou' element={<HPage8/>}></Route>
-      <Route path='/BlameTheGame' element={<HPage9/>}></Route>
-      <Route path='/Thelnavasin' element={<HPage10/>}></Route>
-      <Route path='/CobWeb' element={<HPage11/>}></Route>
-      <Route path='/TheBigHit' element={<HPage12/>}></Route>
-      <Route path='/HitMan' element={<HPage13/>}></Route>
-      <Route path='/MafiaMamma' element={<HPage14/>}></Route>
-      <Route path='/MeanGirls' element={<HPage15/>}></Route>
-      <Route path='/MirrorMirror' element={<HPage16/>}></Route>
-      <Route path='/ExcessBaggage' element={<HPage17/>}></Route>
-      <Route path='/CurseofTheKraken' element={<HPage18/>}></Route>
-      <Route path='/TheThieves' element={<HPage19/>}></Route>
-      <Route path='/FierceCop' element={<HPage20/>}></Route>
-      <Route path='/TheGhostAndTheDarkness' element={<HPage21/>}></Route>
-      <Route path='/LiesBeneathTheSurface' element={<HPage22/>}></Route>
-      <Route path='/RvResurrectedVictims' element={<HPage23/>}></Route>
-      <Route path='/KingdomofThePlanet' element={<HPage24/>}></Route>
-      <Route path='/Unbreakable' element={<HPage25/>}></Route>
-      <Route path='/Architecture' element={<HPage26/>}></Route>
-      <Route path='/AlongWithTheGods' element={<HPage27/>}></Route>
-      <Route path='/TheLeagueofExtraordinaryGentlemen' element={<HPage28/>}></Route>
-      <Route path='/TheGarfield' element={<HPage29/>}></Route>
-      <Route path='/Jailer' element={<SoPage1/>}></Route> 
+      <Route path='/Movie1' element={<HMovie1/>}></Route>
 
     </Routes>
 

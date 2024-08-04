@@ -16,131 +16,131 @@ const Hollywood = () => {
     </div>
     <div className='card'>
     <Link to="/GhostRider">
-    <img className="card-img" src={require("./img/GhostRider2.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/GuaroiansGalaxy">
-    <img className="card-img" src={require("./img/GuaroiansGalaxy3.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/ProjectLegion">
-    <img className="card-img" src={require("./img/ProjectLegion4.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/EagleEye">
-    <img className="card-img" src={require("./img/EagleEye5.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/ThePerfectNanny">
-    <img className="card-img" src={require("./img/ThePerfectNanny6.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/AHardDay">
-    <img className="card-img" src={require("./img/AHardDay7.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div> <div className='card'>
     <Link to="/BeWithYou">
-    <img className="card-img" src={require("./img/BeWithYou8.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/BlameTheGame">
-    <img className="card-img" src={require("./img/BlameTheGame9.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/Thelnavasin">
-    <img className="card-img" src={require("./img/Thelnavasin10.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/CobWeb">
-    <img className="card-img" src={require("./img/CobWeb11.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/TheBigHit">
-    <img className="card-img" src={require("./img/TheBigHit12.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/HitMan">
-    <img className="card-img" src={require("./img/HitMan13.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/MafiaMamma">
-    <img className="card-img" src={require("./img/MafiaMamma14.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/MeanGirls">
-    <img className="card-img" src={require("./img/MeanGirls15.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/MirrorMirror">
-    <img className="card-img" src={require("./img/MirrorMirror16.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/ExcessBaggage">
-    <img className="card-img" src={require("./img/ExcessBaggage17.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/CurseofTheKraken">
-    <img className="card-img" src={require("./img/CurseofTheKraken18.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/TheThieves">
-    <img className="card-img" src={require("./img/TheThieves19.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/FierceCop">
-    <img className="card-img" src={require("./img/FierceCop20.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/TheGhostAndTheDarkness">
-    <img className="card-img" src={require("./img/TheGhostAndTheDarkness21.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/LiesBeneathTheSurface">
-    <img className="card-img" src={require("./img/LiesBeneathTheSurface22.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/RvResurrectedVictims">
-    <img className="card-img" src={require("./img/RvResurrectedVictims23.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/KingdomofThePlanet">
-    <img className="card-img" src={require("./img/KingdomofThePlanet24.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/Unbreakable">
-    <img className="card-img" src={require("./img/Unbreakable25.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/Architecture">
-    <img className="card-img" src={require("./img/Architecture26.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/AlongWithTheGods">
-    <img className="card-img" src={require("./img/AlongWithTheGods27.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
@@ -398,7 +398,7 @@ const  SouthMovie =()=> {
  <div className='Main'>
   <div className='card'>
   <Link to="/Jailer">
-  <img className="card-img" src={require("./img/SouthMvoieimg/jailer1.jpg")} alt="" />
+  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
   </Link>
   </div>
   <div className='card'>

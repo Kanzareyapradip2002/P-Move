@@ -10,12 +10,12 @@ const HollywoodPage2 = () =>{
     <div className='Main'>
     <div className='card'>
     <Link to="/TheLeagueofExtraordinaryGentlemen">
-    <img className="card-img" src={require("./img/The League of Extraordinary Gentlemen28.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
     <Link to="/TheGarfield">
-    <img className="card-img" src={require("./img/TheGarfield29.jpg")} alt="" />
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>

@@ -177,15 +177,30 @@ cursor: pointer;
   height: 400px;
   border-radius: 10px;
 }
+.text-Title{
+  margin-left: 460px;
+  margin-top: 40px;
+  font-size: 35px;
+  font-weight: 700;
+  color: white;
+}
 .react-player{
-  margin-top: 120px;
- margin-left: 350px;
+  margin-top: -460px;
+  margin-left: 460px;
 }
 .ButtanDownloads{
 height: 50px;
 width: 250px;
 margin-left: 120px;
-margin-top:-290px;
+margin-top: 20px;
+font-size: 25px;
+color:white;
+font-weight: 600;
+}
+.react-player1{
+  margin-top: 24px;
+  margin-left: 30px;
+  margin-top: 10px;
 }
 .card-img{
   height: 190px;
@@ -196,16 +211,7 @@ margin-top:-290px;
 .card-img:hover{
   transform: scale(1.1);
 }   
-.DownloadsSystem{
-  margin-left: 500px;
-  margin-top: -400px;
-  color:white;
-  font-weight: 600;
-}
-.zipFile{
-  height: 60px;
-  width: 90px;
-}
+
 
 .Google1{
   height: 150px;
@@ -213,13 +219,7 @@ margin-top:-290px;
   margin-left: 80px;
   margin-top: 40px;
 }
-.Google2{
-  font-family: sans-serif;
-  font-style: normal;
-  font-weight: 900;
-  margin-left: 30px;
-  margin-top: 10px;
-}
+
 .Sendbuttan{
   margin-left: 70px;
   margin-top:10px;
