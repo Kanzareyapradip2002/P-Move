@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
 
-const Black_Adam = 'http://localhost:3000/Move/Black_Adam.zip'
+const Black_Adam = 'https://drive.google.com/file/d/1GBXwet_2rYm64cv7LktxOG5oV8kXHQaD/view?usp=drive_link'
 const Ghost_Rider_2_Spirit_Of_Vengeance = 'http://localhost:3000/Move/Ghost_Rider_2_Spirit_Of_Vengeance.zip'
 const Guardians_of_the_Galaxy_Vol_3 = 'http://localhost:3000/Move/Guardians_of_the_Galaxy_Vol_3.zip'
 const Project_Legion = 'http://localhost:3000/Move/Project_Legion.zip'
