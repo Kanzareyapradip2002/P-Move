@@ -1,0 +1,243 @@
+@media only screen and (max-width: 320px) {
+    .pagination{
+        margin-left: -480px;
+        display: flex;
+        flex-wrap: wrap;
+        width:270px;
+    }
+    .logo{
+        margin-top: 40px;
+    }
+    .image{
+        display: none;
+    }
+    .content {
+        margin-top: -80px;
+        height: 316px;
+        border-radius: 20px;
+    }
+    .btn1{
+        margin-top: 5px;
+        margin-left: 50px;
+        border-radius: 10px;
+    }
+    .btn{
+        margin-left: 100px;
+    }
+    .img1 {
+        margin-top: 100px;
+        margin-left: 59px;
+        width: 202px;
+        height: 297px;
+        border-radius: 10px;
+    }
+    .DownloadsSystem {
+        margin-left: 15px;
+        margin-top: 18px;
+        color: white;
+        font-weight: 600;
+    }
+    .ButtanDownloads {
+        height: 50px;
+        width: 179px;
+        margin-left: 70px;
+        margin-top: -290px;
+    }
+    .player-wrapper{
+        display: none;
+    }
+
+}  
+@media only screen and (min-width: 375px) {
+    .pagination{
+        margin-left: -460px;
+        display: flex;
+        flex-wrap: wrap;    
+        width:330px;
+    }
+    .logo{
+        margin-top: 40px;
+    }
+    .card-img{
+       height: 180px;
+       width: 130px;
+    }
+    .Main{
+        margin-left: 20px;
+    }
+    .image{
+        display: none;
+    }
+    .container{
+      margin-top: 17px;
+      margin-left: -20px;
+    }
+    .img1 {
+        margin-top: 100px;
+        margin-left: 120px;
+        width: 202px;
+        height: 297px;
+        border-radius: 10px;
+    }
+    .DownloadsSystem {
+        margin-left: 55px;
+        margin-top: 18px;
+        color: white;
+        font-weight: 600;
+    }
+    .ButtanDownloads {
+        height: 50px;
+        width: 179px;
+        margin-left: 120px;
+        margin-top: -290px;
+    }
+    .player-wrapper{
+        display: none;
+    }
+} 
+@media only screen and (min-width:425px) {
+    .pagination{
+        margin-left: -460px;
+        display: flex;
+        flex-wrap: wrap;    
+        width:370px;
+    }
+    .logo{
+        margin-top: 40px;
+    }
+    .card-img{
+       height: 170px;
+       width: 120px;
+    }
+    .Main{
+        margin-left: -10px;
+    }
+    .container{
+      margin-top: 17px;
+      margin-left: 19px;
+    }
+
+} 
+@media only screen and (min-width:768px) {
+    .pagination{
+        margin-left: -460px;
+        display: flex;
+        flex-wrap:wrap;    
+        width:690px;
+    }
+    .logo{
+        margin-top: 40px;
+    }
+    .Main{
+        margin-left: 20px;
+    }
+    .image{
+        display:block;
+    }
+    .container{
+      margin-top: 17px;
+      margin-left: 40px;
+    }
+    .img1 {
+        margin-top: 100px;
+        margin-left: 59px;
+        width: 202px;
+        height: 297px;
+        border-radius: 10px;
+    }
+    .DownloadsSystem {
+        margin-left: 263px;
+        margin-top: -310px;
+        color: white;
+        font-weight: 600;
+    }
+    .ButtanDownloads {
+        height: 50px;
+        width: 179px;
+        margin-left: 59px;
+        margin-top: -817px;
+    }
+    .player-wrapper{
+        display:block;
+        margin-left: -290px;
+    }
+} 
+@media only screen and (min-width:1024px) {
+    .pagination{
+        margin-left: -370px;
+        flex-wrap:nowrap;    
+    }
+    .logo{
+        margin-top: 2px;
+    }
+    .Main{
+        margin-left: 50px;
+    }
+    .container{
+        margin-top: 150px;
+        margin-left: 150px;
+    }
+    .player-wrapper{
+        display:block;
+        margin-left: 20px;
+    }
+    .img1 {
+        margin-top: 100px;
+        margin-left: 59px;
+        width: 302px;
+        height: 397px;
+        border-radius: 10px;
+    }
+    .DownloadsSystem {
+        margin-left: 486px;
+        margin-top: -410px;
+        color: white;
+        font-weight: 600;
+    }
+    .ButtanDownloads {
+        height: 50px;
+        width: 284px;
+        margin-left: 59px;
+        margin-top: -817px;
+    }
+    
+}
+
+
+@media only screen and (min-width:1440px) {
+    .pagination{
+        margin-left: -190px;
+        flex-wrap:nowrap;    
+    }
+    .logo{
+        margin-top:10px ;
+    }
+    .container{
+        margin-top: 170px;
+        margin-left: 350px;
+    }
+    .img1 {
+        margin-top: 100px;
+        margin-left: 59px;
+        width: 302px;
+        height: 397px;
+        border-radius: 10px;
+    }
+    .DownloadsSystem {
+        margin-left: 486px;
+        margin-top: -412px;
+        color: white;
+        font-weight: 600;
+    }
+    .ButtanDownloads {
+        height: 63px;
+        width: 305px;
+        margin-left: 59px;
+        margin-top: -817px;
+    }
+    .player-wrapper{
+        display:block;
+        margin-left: 90px;
+    }
+}
+
