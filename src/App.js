@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css'; 
-import { HPage1} from './Componet/HollywoodMovePage';
+import { HPage1, HPage2} from './Componet/HollywoodMovePage';
 import { Login} from './Componet/LoginALLFiles';
 import { HollywoodPage10, HollywoodPage11, HollywoodPage12, HollywoodPage13, HollywoodPage14, HollywoodPage15, HollywoodPage16, HollywoodPage17, HollywoodPage18, HollywoodPage19, HollywoodPage2, HollywoodPage20, HollywoodPage3, HollywoodPage4, HollywoodPage5, HollywoodPage6, HollywoodPage7, HollywoodPage8, HollywoodPage9} from './Componet/HollywoodPage';
 import { Bollywood, Hollywood, SouthMovie,WebSeries } from './Componet/MovieCatgares';
@@ -94,7 +94,9 @@ function App() {
       <Route path='/serise1' element={<Serise1/>}></Route>
       <Route path='/Season1' element={<Season1/>}></Route>
       <Route path='/BlackAdam' element={<HPage1/>}></Route>
+      <Route path='/GhostRider' element={<HPage2/>}></Route>
       <Route path='/Movie1' element={<HMovie1/>}></Route>
+      <Route path='/Movie2' element={<HMovie1/>}></Route>
 
     </Routes>
 

@@ -25,4 +25,27 @@ const HPage1 = () =>{
     </>
   )
 }
-export {HPage1}
+const HPage2 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/GhostRider2.jpg")} alt="" />
+     <div>
+     <Link to='/Movie2' >
+       <button className='ButtanDownloads'>Watch</button>
+     </Link>
+     </div>
+     <div className='player-wrapper'>
+       
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=89FaRrGyMZ8'
+           
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+ 
+       
+     </>
+   )
+ }
+export {HPage1,HPage2}

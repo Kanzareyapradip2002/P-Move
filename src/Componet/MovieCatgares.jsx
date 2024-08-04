@@ -15,7 +15,7 @@ const Hollywood = () => {
     </Link>
     </div>
     <div className='card'>
-    <Link to="/">
+    <Link to="/GhostRider">
     <img className="card-img" src={require("./img/GhostRider2.jpg")} alt="" />
     </Link>
     </div>
