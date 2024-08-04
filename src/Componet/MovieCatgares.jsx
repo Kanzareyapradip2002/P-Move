@@ -16,7 +16,7 @@ const Hollywood = () => {
     </div>
     <div className='card'>
     <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <img className="card-img" src={require("./img/GhostRider2.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
