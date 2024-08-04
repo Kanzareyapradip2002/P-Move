@@ -1,12 +1,11 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css'; 
-import { HPage1, HPage10, HPage11, HPage12, HPage13, HPage14, HPage15, HPage16, HPage17, HPage18, HPage19, HPage2, HPage20, HPage21, HPage22, HPage23, HPage24, HPage25, HPage26, HPage27, HPage28, HPage29, HPage3, HPage4, HPage5, HPage6, HPage7, HPage8, HPage9 } from './Componet/HollywoodMovePage';
+import { HPage1} from './Componet/HollywoodMovePage';
 import { Login} from './Componet/LoginALLFiles';
 import { HollywoodPage10, HollywoodPage11, HollywoodPage12, HollywoodPage13, HollywoodPage14, HollywoodPage15, HollywoodPage16, HollywoodPage17, HollywoodPage18, HollywoodPage19, HollywoodPage2, HollywoodPage20, HollywoodPage3, HollywoodPage4, HollywoodPage5, HollywoodPage6, HollywoodPage7, HollywoodPage8, HollywoodPage9} from './Componet/HollywoodPage';
 import { Bollywood, Hollywood, SouthMovie,WebSeries } from './Componet/MovieCatgares';
 import { BollywoodPage10, BollywoodPage11, BollywoodPage12, BollywoodPage13, BollywoodPage14, BollywoodPage15, BollywoodPage16, BollywoodPage17, BollywoodPage18, BollywoodPage19, BollywoodPage2, BollywoodPage20, BollywoodPage3, BollywoodPage4, BollywoodPage5, BollywoodPage6, BollywoodPage7, BollywoodPage8, BollywoodPage9 } from './Componet/BollywoodPage';
 import { SouthMoviePage10, SouthMoviePage11, SouthMoviePage12, SouthMoviePage13, SouthMoviePage14, SouthMoviePage15, SouthMoviePage16, SouthMoviePage17, SouthMoviePage18, SouthMoviePage19, SouthMoviePage2, SouthMoviePage20, SouthMoviePage3, SouthMoviePage4, SouthMoviePage5, SouthMoviePage6, SouthMoviePage7, SouthMoviePage8, SouthMoviePage9 } from './Componet/SouthMovieMain';
-import { SoPage1 } from './Componet/SouthMoviePage';
 import { WebSeriesMoviePage10, WebSeriesMoviePage2, WebSeriesMoviePage3, WebSeriesMoviePage4, WebSeriesMoviePage5, WebSeriesMoviePage6, WebSeriesMoviePage7, WebSeriesMoviePage8, WebSeriesMoviePage9 } from './Componet/WebSeriesMovie';
 import { Serise1 } from './Componet/WebSeriesMovieSeason';
 import { Season1 } from './Componet/WebSeriesMovieSeasonPage';
