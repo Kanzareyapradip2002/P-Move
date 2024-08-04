@@ -15,131 +15,131 @@ const Hollywood = () => {
     </Link>
     </div>
     <div className='card'>
-    <Link to="/GhostRider">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/GuaroiansGalaxy">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/ProjectLegion">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/EagleEye">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/ThePerfectNanny">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/AHardDay">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div> <div className='card'>
-    <Link to="/BeWithYou">
+    <Link to="">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/BlameTheGame">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/Thelnavasin">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/CobWeb">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/TheBigHit">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/HitMan">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/MafiaMamma">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/MeanGirls">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/MirrorMirror">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/ExcessBaggage">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/CurseofTheKraken">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/TheThieves">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/FierceCop">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/TheGhostAndTheDarkness">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/LiesBeneathTheSurface">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/RvResurrectedVictims">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/KingdomofThePlanet">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/Unbreakable">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/Architecture">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
     <div className='card'>
-    <Link to="/AlongWithTheGods">
+    <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
     </div>
