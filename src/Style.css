@@ -41,10 +41,34 @@
         height: 50px;
         width: 179px;
         margin-left: 70px;
-        margin-top: -290px;
+        margin-top:22px;
+    }
+    .player{
+        display: none;
     }
     .player-wrapper{
         display: none;
+    }
+    .player-wrapper2{
+        display: none;
+    }
+    .player-wrapper1{
+        display: block;
+    }
+    .player-wrapper3{
+        display:none;
+    }
+    .player-wrapper4{
+        display:none;
+    }
+    .player-wrapper5{
+        display:none;
+    }
+    .player-wrapper6{
+        display:none;
+    }
+    .react-player2{
+        margin-top: 120px;
     }
 
 }  
@@ -74,25 +98,42 @@
     }
     .img1 {
         margin-top: 100px;
-        margin-left: 120px;
+        margin-left: 87px;
         width: 202px;
         height: 297px;
         border-radius: 10px;
     }
-    .DownloadsSystem {
-        margin-left: 55px;
-        margin-top: 18px;
-        color: white;
-        font-weight: 600;
-    }
     .ButtanDownloads {
         height: 50px;
         width: 179px;
-        margin-left: 120px;
-        margin-top: -290px;
+        margin-left: 102px;
+    }
+    .player{
+        display: none;
     }
     .player-wrapper{
         display: none;
+    }
+    .player-wrapper2{
+        display:block;
+    }
+    .player-wrapper1{
+        display:none;
+    }
+    .player-wrapper3{
+        display:none;
+    }
+    .player-wrapper4{
+        display:none;
+    }
+    .player-wrapper5{
+        display:none;
+    }
+    .player-wrapper6{
+        display:none;
+    }
+    .react-player3{
+        margin-top:94px;
     }
 } 
 @media only screen and (min-width:425px) {
@@ -105,6 +146,13 @@
     .logo{
         margin-top: 40px;
     }
+    .img1 {
+        margin-top: 74px;
+        margin-left: 87px;
+        width: 244px;
+        height: 328px;
+        border-radius: 10px;
+    }
     .card-img{
        height: 170px;
        width: 120px;
@@ -112,9 +160,38 @@
     .Main{
         margin-left: -10px;
     }
+    .ButtanDownloads {
+        height: 50px;
+        width: 221px;
+        margin-left: 100px;
+    }
     .container{
       margin-top: 17px;
       margin-left: 19px;
+    }
+    .player-wrapper{
+        display: none;
+    }
+    .player-wrapper2{
+        display:none;
+    }
+    .player-wrapper1{
+        display:none;
+    }
+    .player-wrapper3{
+        display:block;
+    }
+    .player-wrapper4{
+        display:none;
+    }
+    .player-wrapper5{
+        display:none;
+    }
+    .player-wrapper6{
+        display:none;
+    }
+    .react-player4{
+        margin-top:105px;
     }
 
 } 
@@ -140,9 +217,9 @@
     }
     .img1 {
         margin-top: 100px;
-        margin-left: 59px;
-        width: 202px;
-        height: 297px;
+        margin-left: 226px;
+        width: 300px;
+        height: 395px;
         border-radius: 10px;
     }
     .DownloadsSystem {
@@ -153,14 +230,39 @@
     }
     .ButtanDownloads {
         height: 50px;
-        width: 179px;
-        margin-left: 59px;
-        margin-top: -817px;
+        width: 307px;
+        margin-left: 223px;
+    }
+    .player{
+        display: block;
+        margin-top: 500px;
+        margin-left: -400px;
     }
     .player-wrapper{
-        display:block;
-        margin-left: -290px;
+        display: none;
     }
+    .player-wrapper2{
+        display:none;
+    }
+    .player-wrapper1{
+        display:none;
+    }
+    .player-wrapper3{
+        display:none;
+    }
+    .player-wrapper4{
+        display:block;
+    }
+    .player-wrapper5{
+        display:none;
+    }
+    .player-wrapper6{
+        display:none;
+    }
+    .react-player5{
+        margin-top:100px;
+    }
+
 } 
 @media only screen and (min-width:1024px) {
     .pagination{
@@ -177,11 +279,6 @@
         margin-top: 150px;
         margin-left: 150px;
     }
-    .player-wrapper{
-        display:block;
-        margin-left: 20px;
-        margin-top: -20px;
-    }
     .img1 {
         margin-top: 100px;
         margin-left: 59px;
@@ -194,6 +291,35 @@
         width: 284px;
         margin-left: 62px;
         margin-top: 27px;
+    }
+    .player{
+        display: block;
+        margin-top: 10px;
+        margin-left: -70px;
+    }
+    .player-wrapper{
+        display: none;
+    }
+    .player-wrapper2{
+        display:none;
+    }
+    .player-wrapper1{
+        display:none;
+    }
+    .player-wrapper3{
+        display:none;
+    }
+    .player-wrapper4{
+        display:none;
+    }
+    .player-wrapper5{
+        display:block;
+    }
+    .player-wrapper6{
+        display:none;
+    }
+    .react-player6{
+        margin-top:148px;
     }
     
 }
@@ -212,10 +338,10 @@
         margin-left: 350px;
     }
     .img1 {
-        margin-top: 100px;
+        margin-top: 178px;
         margin-left: 59px;
-        width: 302px;
-        height: 397px;
+        width: 408px;
+        height: 510px;
         border-radius: 10px;
     }
     .DownloadsSystem {
@@ -226,13 +352,37 @@
     }
     .ButtanDownloads {
         height: 63px;
-        width: 305px;
+        width: 405px;
         margin-left: 59px;
-        margin-top: -817px;
+    }
+    .player{
+        display: block;
+        margin-top: -550px;
+        margin-left: 190px;
     }
     .player-wrapper{
+        display: none;
+    }
+    .player-wrapper2{
+        display:none;
+    }
+    .player-wrapper1{
+        display:none;
+    }
+    .player-wrapper3{
+        display:none;
+    }
+    .player-wrapper4{
+        display:none;
+    }
+    .player-wrapper5{
+        display:none;
+    }
+    .player-wrapper6{
         display:block;
-        margin-left: 90px;
+    }
+    .react-player7{
+        margin-top:165px;
     }
 }
 

@@ -11,12 +11,11 @@ const HPage1 = () =>{
       <button className='ButtanDownloads'>Watch</button>
     </Link>
     </div>
-    <div className='player-wrapper'>
+    <div className='player'>
       
         <ReactPlayer
           className='react-player'
-          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
-          
+          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'        
         />
         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
     </div>
@@ -38,7 +37,7 @@ const HPage2 = () =>{
        
          <ReactPlayer
            className='react-player'
-           url='https://www.youtube.com/watch?v=89FaRrGyMZ8'
+           url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
            
          />
          <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>

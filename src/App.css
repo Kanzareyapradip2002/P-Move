@@ -198,9 +198,11 @@ color:white;
 font-weight: 600;
 }
 .react-player1{
-  margin-top: 24px;
+  margin-top: -4px;
   margin-left: 30px;
-  margin-top: 10px;
+}
+.player-wrapper{
+  display:none;
 }
 .card-img{
   height: 190px;
