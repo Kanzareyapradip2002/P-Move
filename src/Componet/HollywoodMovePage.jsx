@@ -31,7 +31,7 @@ const HPage1 = () =>{
     <div className='player1'>
         <ReactPlayer
           className='react-player'
-          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
+          url='https://www.youtube.com/watch?v=SJIOn1VuNOU'
           height={320}
           width={670} 
         />
@@ -40,7 +40,7 @@ const HPage1 = () =>{
     <div className='player2'>
         <ReactPlayer
           className='react-player'
-          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
+          url='https://www.youtube.com/watch?v=SJIOn1VuNOU'
           height={220}
           width={400} 
         />
@@ -49,7 +49,7 @@ const HPage1 = () =>{
     <div className='player3'>
         <ReactPlayer
           className='react-player'
-          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
+         url='https://www.youtube.com/watch?v=SJIOn1VuNOU'
           height={180}
           width={300} 
         />
