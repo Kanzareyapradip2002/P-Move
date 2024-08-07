@@ -71,7 +71,7 @@ const Login = () => {
       <div className='Main'>
         <div className="container">
           <div className="image">
-            <h1>Welcome To <span>KPA MOVIES</span></h1>
+            <h1 className='text-hading'>Welcome To <span>KPA MOVIES</span></h1>
           </div>
           <div className="content">
             <h1>User already logged in!</h1>

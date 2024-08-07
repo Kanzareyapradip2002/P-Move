@@ -1,388 +1,178 @@
-@media only screen and (max-width: 320px) {
-    .pagination{
-        margin-left: -480px;
+@media only screen and (max-width: 1440px) {
+    .Main {
+        width: 1300px;
+        margin-left: 0;
+    }
+    .pagination {
+        margin-left: -250px;
+    }
+    .ButtonDownloads {
+        margin-left: 80px;
+    }
+    .img1 {
+        margin-left: 50px;
+    }
+    .informasin {
+        margin-left: 480px;
+    }
+    .player {
+        margin-left: -340px;
+    }
+    .player1 {
+        display: none;
+    }
+    .player2{
+        display:none;
+      }
+      .player3{
+        display:none;
+     }
+}
+
+@media only screen and (max-width: 1024px) {
+    .Main {
+        width: 1000px;
+        margin-left: 50px;
+    }
+    .pagination {
+        margin-left: -350px;
         display: flex;
         flex-wrap: wrap;
-        width:270px;
     }
-    .logo{
-        margin-top: 40px;
-    }
-    .image{
-        display: none;
-    }
-    .content {
-        margin-top: -80px;
-        height: 316px;
-        border-radius: 20px;
-    }
-    .btn1{
-        margin-top: 5px;
-        margin-left: 50px;
-        border-radius: 10px;
-    }
-    .btn{
-        margin-left: 100px;
+    .ButtonDownloads {
+        margin-left: 80px;
     }
     .img1 {
-        margin-top: 100px;
-        margin-left: 59px;
-        width: 202px;
-        height: 297px;
-        border-radius: 10px;
+        margin-left: 60px;
     }
-    .DownloadsSystem {
-        margin-left: 15px;
-        margin-top: 18px;
-        color: white;
-        font-weight: 600;
+    .informasin {
+        margin-left: 380px;
     }
-    .ButtanDownloads {
-        height: 50px;
-        width: 179px;
-        margin-left: 70px;
-        margin-top:22px;
-    }
-    .player{
+    .player {
+        margin-left: -340px;
         display: none;
     }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
-        display: none;
-    }
-    .player-wrapper1{
-        display: block;
-    }
-    .player-wrapper3{
-        display:none;
-    }
-    .player-wrapper4{
-        display:none;
-    }
-    .player-wrapper5{
-        display:none;
-    }
-    .player-wrapper6{
-        display:none;
-    }
-    .react-player2{
-        margin-top: 120px;
-    }
-
-}  
-@media only screen and (min-width: 375px) {
-    .pagination{
-        margin-left: -460px;
-        display: flex;
-        flex-wrap: wrap;    
-        width:330px;
-    }
-    .logo{
-        margin-top: 40px;
-    }
-    .card-img{
-       height: 180px;
-       width: 130px;
-    }
-    .Main{
-        margin-left: 20px;
-    }
-    .image{
-        display: none;
-    }
-    .container{
-      margin-top: 17px;
-      margin-left: -20px;
-    }
-    .img1 {
-        margin-top: 100px;
-        margin-left: 87px;
-        width: 202px;
-        height: 297px;
-        border-radius: 10px;
-    }
-    .ButtanDownloads {
-        height: 50px;
-        width: 179px;
-        margin-left: 102px;
-    }
-    .player{
-        display: none;
-    }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
-        display:block;
-    }
-    .player-wrapper1{
-        display:none;
-    }
-    .player-wrapper3{
-        display:none;
-    }
-    .player-wrapper4{
-        display:none;
-    }
-    .player-wrapper5{
-        display:none;
-    }
-    .player-wrapper6{
-        display:none;
-    }
-    .react-player3{
-        margin-top:94px;
-    }
-} 
-@media only screen and (min-width:425px) {
-    .pagination{
-        margin-left: -460px;
-        display: flex;
-        flex-wrap: wrap;    
-        width:370px;
-    }
-    .logo{
-        margin-top: 40px;
-    }
-    .img1 {
-        margin-top: 74px;
-        margin-left: 87px;
-        width: 244px;
-        height: 328px;
-        border-radius: 10px;
-    }
-    .card-img{
-       height: 170px;
-       width: 120px;
-    }
-    .Main{
-        margin-left: -10px;
-    }
-    .ButtanDownloads {
-        height: 50px;
-        width: 221px;
-        margin-left: 100px;
-    }
-    .container{
-      margin-top: 17px;
-      margin-left: 19px;
-    }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
-        display:none;
-    }
-    .player-wrapper1{
-        display:none;
-    }
-    .player-wrapper3{
-        display:block;
-    }
-    .player-wrapper4{
-        display:none;
-    }
-    .player-wrapper5{
-        display:none;
-    }
-    .player-wrapper6{
-        display:none;
-    }
-    .react-player4{
-        margin-top:105px;
-    }
-
-} 
-@media only screen and (min-width:768px) {
-    .pagination{
-        margin-left: -460px;
-        display: flex;
-        flex-wrap:wrap;    
-        width:690px;
-    }
-    .logo{
-        margin-top: 40px;
-    }
-    .Main{
-        margin-left: 20px;
-    }
-    .image{
-        display:block;
-    }
-    .container{
-      margin-top: 17px;
-      margin-left: 40px;
-    }
-    .img1 {
-        margin-top: 100px;
-        margin-left: 226px;
-        width: 300px;
-        height: 395px;
-        border-radius: 10px;
-    }
-    .DownloadsSystem {
-        margin-left: 263px;
-        margin-top: -310px;
-        color: white;
-        font-weight: 600;
-    }
-    .ButtanDownloads {
-        height: 50px;
-        width: 307px;
-        margin-left: 223px;
-    }
-    .player{
+    .player1 {
+        margin-left: -400px;
         display: block;
         margin-top: 500px;
+    }
+    .text-Title {
+        font-size: 30px;
+        width: 650px;
+    }
+    .player2{
+        display:none;
+      }
+      .player3{
+        display:none;
+     }
+}
+
+@media only screen and (max-width: 768px) {
+    .Main {
+        width: 700px;
+        margin-left: 60px;
+    }
+    .pagination {
+        margin-left: -450px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 700px;
+    }
+    .ButtonDownloads {
+        margin-left:200px;
+    }
+    .player {
+        margin-left: -340px;
+        display: none;
+    }
+    .player1 {
         margin-left: -400px;
-    }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
-        display:none;
-    }
-    .player-wrapper1{
-        display:none;
-    }
-    .player-wrapper3{
-        display:none;
-    }
-    .player-wrapper4{
-        display:block;
-    }
-    .player-wrapper5{
-        display:none;
-    }
-    .player-wrapper6{
-        display:none;
-    }
-    .react-player5{
-        margin-top:100px;
-    }
-
-} 
-@media only screen and (min-width:1024px) {
-    .pagination{
-        margin-left: -370px;
-        flex-wrap:nowrap;    
-    }
-    .logo{
-        margin-top: 2px;
-    }
-    .Main{
-        margin-left: 50px;
-    }
-    .container{
-        margin-top: 150px;
-        margin-left: 150px;
-    }
-    .img1 {
-        margin-top: 100px;
-        margin-left: 59px;
-        width: 302px;
-        height: 397px;
-        border-radius: 10px;
-    }
-    .ButtanDownloads {
-        height: 50px;
-        width: 284px;
-        margin-left: 62px;
-        margin-top: 27px;
-    }
-    .player{
         display: block;
-        margin-top: 10px;
-        margin-left: -70px;
+        margin-top: 500px;
     }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
+    .player2{
         display:none;
     }
-    .player-wrapper1{
+    .player3{
         display:none;
-    }
-    .player-wrapper3{
-        display:none;
-    }
-    .player-wrapper4{
-        display:none;
-    }
-    .player-wrapper5{
-        display:block;
-    }
-    .player-wrapper6{
-        display:none;
-    }
-    .react-player6{
-        margin-top:148px;
-    }
-    
+     }
+     .img1{
+        margin-left: 60px;
+     }
 }
 
-
-@media only screen and (min-width:1440px) {
+@media only screen and (max-width: 450px) {
+    .Main {
+        width: 400px;
+        margin-left:16px;
+    }
+    .navbar{
+        margin-top: 40px;
+    }
     .pagination{
-        margin-left: -190px;
-        flex-wrap:nowrap;    
-    }
-    .logo{
-        margin-top:10px ;
-    }
-    .container{
-        margin-top: 170px;
-        margin-left: 350px;
-    }
-    .img1 {
-        margin-top: 178px;
-        margin-left: 59px;
-        width: 408px;
-        height: 510px;
-        border-radius: 10px;
-    }
-    .DownloadsSystem {
-        margin-left: 486px;
-        margin-top: -412px;
-        color: white;
-        font-weight: 600;
-    }
-    .ButtanDownloads {
-        height: 63px;
-        width: 405px;
-        margin-left: 59px;
-    }
-    .player{
-        display: block;
-        margin-top: -550px;
-        margin-left: 190px;
-    }
-    .player-wrapper{
-        display: none;
-    }
-    .player-wrapper2{
-        display:none;
-    }
-    .player-wrapper1{
-        display:none;
-    }
-    .player-wrapper3{
-        display:none;
-    }
-    .player-wrapper4{
-        display:none;
-    }
-    .player-wrapper5{
-        display:none;
-    }
-    .player-wrapper6{
-        display:block;
-    }
-    .react-player7{
-        margin-top:165px;
-    }
-}
+        width: 350px;
+        margin-left: -470px;
+   }
+   .informasin{
+       margin-top:20px;
+       margin-left:40px;
+   }
+   .player {
+    display: none;
+   }
+  .player1 {
+    display: none;
+  }
+  .player2{
+    display: block;
+    margin-top: 400px;
+    margin-left: -450px;
+  }
+  .player3{
+    display:none;
+ }
+  .text-Title{
+    width:400px;
+  }
+  .img1{
+    margin-left: 60px;
+ }
+ .content{
+    margin-top: 0px;
+    margin-left: -375px;
+    width: 20px;
+ }
 
+}
+@media only screen and (max-width:320px) {
+    .Main {
+        margin-left:-15px;
+    }
+    .navbar{
+        margin-top: 40px;
+    }
+    .pagination{
+        width: 270px;
+        margin-left: -470px;
+   }
+   .img1{
+    height: 250px;
+    width: 200px;
+   }
+   .player {
+    display: none;
+   }
+.player1 {
+    display:none;
+   }
+.player2{
+    display:none;
+ }
+ .player3{
+    display:block;
+    margin-top: 400px;
+    margin-left: -450px;
+ }  
+}

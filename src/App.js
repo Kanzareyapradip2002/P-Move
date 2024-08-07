@@ -10,7 +10,6 @@ import { WebSeriesMoviePage10, WebSeriesMoviePage2, WebSeriesMoviePage3, WebSeri
 import { Serise1 } from './Componet/WebSeriesMovieSeason';
 import { Season1 } from './Componet/WebSeriesMovieSeasonPage';
 import './Style.css';
-import { HMovie1, HMovie2 } from './Componet/HollywoodMove';
 
 function App() {
   return (
@@ -93,11 +92,8 @@ function App() {
       <Route path='/gotoWebSeriesPage10' element={<WebSeriesMoviePage10/>}></Route>
       <Route path='/serise1' element={<Serise1/>}></Route>
       <Route path='/Season1' element={<Season1/>}></Route>
-      <Route path='/BlackAdam' element={<HPage1/>}></Route>
+      <Route path='/KingdomofThePlanet' element={<HPage1/>}></Route>
       <Route path='/GhostRider' element={<HPage2/>}></Route>
-      <Route path='/Movie1' element={<HMovie1/>}></Route>
-      <Route path='/Movie2' element={<HMovie2/>}></Route>
-
     </Routes>
 
     </>

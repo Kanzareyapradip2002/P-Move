@@ -8,165 +8,198 @@ const Hollywood = () => {
   return (
    <>
    <Main/>
-   <div className='Main'>
+   <div className='Main Main-expand-lg'>
     <div className='card'>
-    <Link to="/BlackAdam">
-    <img className="card-img" src={require("./img/BlackAdam1.jpg")} alt="" />
+    <Link to="/KingdomofThePlanet">
+    <img className="card-img" src={require("./img/KingdomofThePlanet24.jpg")} alt="" />
     </Link>
+     <h6>Release:2024 </h6>
     </div>
     <div className='card'>
     <Link to="/GhostRider">
     <img className="card-img" src={require("./img/GhostRider2.jpg")} alt="" />
     </Link>
+     <h6>Release:2012 </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
-    </div> <div className='card'>
+    <h6>Release: </h6>
+    </div> 
+    <div className='card'>
     <Link to="">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
    </div>
    <div>
@@ -203,165 +236,198 @@ const  Bollywood =()=> {
     return (
       <>
       <Main/>
-   <div className='Main'>
+      <div className='Main'>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/BlackAdam">
+    <img className="card-img" src={require("./img/BlackAdam1.jpg")} alt="" />
     </Link>
+     <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+     <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
-    </div> <div className='card'>
-    <Link to="/">
+    <h6>Release: </h6>
+    </div> 
+    <div className='card'>
+    <Link to="">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
-    </div>
-    <div className='card'>
-    <Link to="/logo">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-    </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
-    </div>
-    <div className='card'>
-    <Link to="/logo">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-    </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
-    </div>
-    <div className='card'>
-    <Link to="/logo">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-    </Link>
+    <h6>Release: </h6>
     </div>
     <div className='card'>
     <Link to="/">
     <img className="card-img" src={require("./img/logo.jpg")} alt="" />
     </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
     </div>
    </div>
   <nav  aria-label="Page navigation example">
@@ -395,167 +461,200 @@ const  SouthMovie =()=> {
   return (
     <>
     <Main/>
- <div className='Main'>
-  <div className='card'>
-  <Link to="/Jailer">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div> <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
- </div>
+    <div className='Main'>
+    <div className='card'>
+    <Link to="/BlackAdam">
+    <img className="card-img" src={require("./img/BlackAdam1.jpg")} alt="" />
+    </Link>
+     <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+     <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div> 
+    <div className='card'>
+    <Link to="">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+   </div>
 <nav  aria-label="Page navigation example">
 <ul className="pagination">
   <li className="page-item"><Link className='page-link' to="/gotoSouthMovie">1</Link></li>
@@ -588,167 +687,200 @@ const  WebSeries=()=> {
   return (
     <>
     <Main/>
- <div className='Main'>
-  <div className='card'>
-  <Link to="/serise1">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div> <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/logo">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
-  <div className='card'>
-  <Link to="/">
-  <img className="card-img" src={require("./img/logo.jpg")} alt="" />
-  </Link>
-  </div>
- </div>
+    <div className='Main'>
+    <div className='card'>
+    <Link to="/BlackAdam">
+    <img className="card-img" src={require("./img/BlackAdam1.jpg")} alt="" />
+    </Link>
+     <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+     <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div> 
+    <div className='card'>
+    <Link to="">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+    <div className='card'>
+    <Link to="/">
+    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    </Link>
+    <h6>Release: </h6>
+    </div>
+   </div>
  <div className='page1' >
   <nav aria-label="Page navigation example">
     <ul className="pagination">
