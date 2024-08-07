@@ -22,7 +22,7 @@ const HPage1 = () =>{
     <div className='player'>
         <ReactPlayer
           className='react-player'
-          url='https://www.youtube.com/watch?v=UJ4SUZSo8H8'
+          url='https://www.youtube.com/watch?v=SJIOn1VuNOU'
           height={420}
           width={770} 
         />
