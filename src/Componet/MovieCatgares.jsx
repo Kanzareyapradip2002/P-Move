@@ -19,37 +19,37 @@ const Hollywood = () => {
     <Link to="/GhostRider">
     <img className="card-img" src={require("./img/GhostRider2.jpg")} alt="" />
     </Link>
-     <h6>Release:2012 </h6>
+     <h6>Release:2011 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/JohnnyEnglishStrikesAgain">
+    <img className="card-img" src={require("./img/johnnyEnglishStrikesAgain.jpeg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2018 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/drunkenmaster">
+    <img className="card-img" src={require("./img/drunkenmaster.jpeg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:1978 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/FastFuriousPresentsHobbsShaw">
+    <img className="card-img" src={require("./img/FastFuriousPresentsHobbsShaw.jpeg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release: 2019</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/JackHunterandtheQuestforAkhenatensTomb">
+    <img className="card-img" src={require("./img/JackHunterandtheQuestforAkhenatensTomb.jpeg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2008</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/Snitch">
+    <img className="card-img" src={require("./img/Snitch.jpeg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2013 </h6>
     </div> 
     <div className='card'>
     <Link to="">
