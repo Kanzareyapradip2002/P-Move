@@ -112,16 +112,16 @@ const Hollywood = () => {
     <h6>Release:2014</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/GuaroiansGalaxy">
+    <img className="card-img" src={require("./img/GuaroiansGalaxy3.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2023 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/ExcessBaggage">
+    <img className="card-img" src={require("./img/ExcessBaggage17.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:1997</h6>
     </div>
     <div className='card'>
     <Link to="/">

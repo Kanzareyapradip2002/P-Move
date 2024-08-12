@@ -1005,7 +1005,7 @@ const HPage3 = () =>{
      <div className='player'>
          <ReactPlayer
            className='react-player'
-           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           url='https://www.youtube.com/watch?v=fRL9UiVp_nk&t=8s'
            height={420}
            width={770} 
          />
@@ -1014,7 +1014,7 @@ const HPage3 = () =>{
      <div className='player1'>
          <ReactPlayer
            className='react-player'
-           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           url='https://www.youtube.com/watch?v=fRL9UiVp_nk&t=8s'
            height={320}
            width={670} 
          />
@@ -1023,7 +1023,7 @@ const HPage3 = () =>{
      <div className='player2'>
          <ReactPlayer
            className='react-player'
-           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           url='https://www.youtube.com/watch?v=fRL9UiVp_nk&t=8s'
            height={220}
            width={400} 
          />
@@ -1032,7 +1032,64 @@ const HPage3 = () =>{
      <div className='player3'>
          <ReactPlayer
            className='react-player'
-           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           url='https://www.youtube.com/watch?v=fRL9UiVp_nk&t=8s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage19 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/ExcessBaggage17.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1fp24O7oRW94n5YQCnaXPhyxBKkmBiZoK/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Excess Baggage</h3>
+       <ul>
+       <li>Directed by:	Marco Brambilla</li>
+        <li>Story by: Max D. Adams</li>
+        <li>Produced by:Bill Borden<br/>Carolyn Kessler</li>
+        <li>Edited by	:Stephen Rivkin</li>
+        <li>Release dates :	August 29, 1997</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=GhX7-V-ShiQ'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=GhX7-V-ShiQ'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=GhX7-V-ShiQ'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=GhX7-V-ShiQ'
            height={180}
            width={300} 
          />
@@ -1042,4 +1099,4 @@ const HPage3 = () =>{
    )
  }
  
-export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11,HPage12,HPage13,HPage14,HPage15,HPage16,HPage17,HPage18}
+export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11,HPage12,HPage13,HPage14,HPage15,HPage16,HPage17,HPage18,HPage19}
