@@ -124,46 +124,46 @@ const Hollywood = () => {
     <h6>Release:1997</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/FierceCop">
+    <img className="card-img" src={require("./img/FierceCop20.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2022</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/CurseofTheKraken">
+    <img className="card-img" src={require("./img/CurseofTheKraken18.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2006</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/EagleEye">
+    <img className="card-img" src={require("./img/EagleEye5.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2008</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/BlameTheGame">
+    <img className="card-img" src={require("./img/BlameTheGame9.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2024 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/CobWeb">
+    <img className="card-img" src={require("./img/CobWeb11.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2023</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/AlongWithTheGods">
+    <img className="card-img" src={require("./img/AlongWithTheGods27.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2017</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/BeWithYou">
+    <img className="card-img" src={require("./img/BeWithYou8.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2018 </h6>
     </div>
     <div className='card'>
     <Link to="/">

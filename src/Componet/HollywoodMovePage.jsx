@@ -1098,5 +1098,404 @@ const HPage3 = () =>{
      </>
    )
  }
+ const HPage20 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/FierceCop20.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/10p_AfuHjSVKezjw8ciCc94THVx1HDQUd/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Fierce Cop</h3>
+       <ul>
+       <li>Directed by:	Marco Brambilla</li>
+        <li>Story by: Max D. Adams</li>
+        <li>Produced by:Bill Borden<br/>Carolyn Kessler</li>
+        <li>Edited by	:Stephen Rivkin</li>
+        <li>Release dates :	August 2, 2022</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=bd11XJErprs'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=bd11XJErprs'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=bd11XJErprs'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=bd11XJErprs'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage21 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/CurseofTheKraken18.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1aNGX2JYeXBY-cIqzxdo21Ea91lDKSxpk/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Curse of The Kraken</h3>
+       <ul>
+       <li>Directed by:	Tibor Takács</li>
+        <li>Written by:	Nicholas Garland<br/>Sean Keller<br/>Brian D. Young</li>
+        <li>Produced by:Stephen Hegyes<br/>Kenneth M. Badish<br/>Shawn Williamson</li>
+        <li>Edited by : Ellen Fine</li>
+        <li>Release dates :	September 23, 2006</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=fPccK01zvAs'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=fPccK01zvAs'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=fPccK01zvAs'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=fPccK01zvAs'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage22 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/EagleEye5.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/10fTa9lIdKsc91DZPY2usLt6SNMbc2EmI/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Eagle Eye</h3>
+       <ul>
+       <li>Directed by:D. J. Caruso</li>
+        <li>Screenplay by :	John Glenn<br/>Travis Adam Wright<br/>Hillary Seitz<br/>Dan McDermott</li>
+        <li>Produced by :	Alex Kurtzman<br/>Roberto Orci<br/>Pat Crowley</li>
+        <li>Edited by	: Jim Page</li>
+        <li>Release dates :	September 16, 2008</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=VE_TJdtnmBM'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=VE_TJdtnmBM'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=VE_TJdtnmBM'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=VE_TJdtnmBM'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage23 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/BlameTheGame9.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1j-k-Wl5F5oexoFB4wvz7OW3pS8hekOv9/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Blame The Game</h3>
+       <ul>
+       <li>Directed by:D. J. Caruso</li>
+        <li>Screenplay by :	John Glenn<br/>Travis Adam Wright<br/>Hillary Seitz<br/>Dan McDermott</li>
+        <li>Produced by :	Alex Kurtzman<br/>Roberto Orci<br/>Pat Crowley</li>
+        <li>Edited by	: Jim Page</li>
+        <li>Release dates :	September 6, 2024</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=zAMo7z767ec&t=52s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=zAMo7z767ec&t=52s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=zAMo7z767ec&t=52s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=zAMo7z767ec&t=52s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage24 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/CobWeb11.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/135RIrn5CPyCZuDWuSlw9araNPT0tmTxp/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Cob Web</h3>
+       <ul>
+       <li>Directed by:Samuel Bodin</li>
+        <li>Written by:	Chris Thomas Devlin</li>
+        <li>Produced by:Roy Lee<br/>Andrew Childs<br/>Evan Goldberg<br/>Seth Rogen<br/>James Weaver<br/>Josh Fagen</li>
+        <li>Edited by	:Richard Riffaud<br/>Kevin Greutert</li>
+        <li>Release dates :	July 21, 2023</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=M1tgjXWqR0A&t=7s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=M1tgjXWqR0A&t=7s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=M1tgjXWqR0A&t=7s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=M1tgjXWqR0A&t=7s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage25 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/AlongWithTheGods27.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1ry6f0LfsRGDlhGj-_hLsrI3FRYMzWbyn/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Along With The Gods </h3>
+       <ul>
+       <li>Directed by:	Kim Yong-hwa</li>
+        <li>Directed by:	Kim Yong-hwa</li>
+        <li>Edited by:<br/>Kim Hye-jin<br/>Zino Kim<br/>Nam Na-young</li>
+        <li>Music by:	Bang Jun-seok</li>
+        <li>Release dates :	20 December 2017</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=sD7dmu-IWNw'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=sD7dmu-IWNw'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=sD7dmu-IWNw'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=sD7dmu-IWNw'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage26 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/BeWithYou8.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1dUHC3daGsyA3Rcbx17gvh3LGglp54adE/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Be With You </h3>
+       <ul>
+       <li>Directed by:Lee Jang-hoon</li>
+        <li>Produced by:Yang Soo-jung</li>
+        <li>Edited by:<br/>Kim Hye-jin<br/>Zino Kim<br/>Nam Na-young</li>
+        <li>Music by:	Bang Jun-seok</li>
+        <li>Release dates :	March 14, 2018</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=s_GBy9vx2PQ&t=12s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=s_GBy9vx2PQ&t=12s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=s_GBy9vx2PQ&t=12s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=s_GBy9vx2PQ&t=12s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
  
-export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11,HPage12,HPage13,HPage14,HPage15,HPage16,HPage17,HPage18,HPage19}
+export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11,HPage12,HPage13,HPage14,HPage15,HPage16,HPage17,HPage18,HPage19,HPage20,HPage21,HPage22,HPage23,HPage24,HPage25,HPage26}
