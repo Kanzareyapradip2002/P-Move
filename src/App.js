@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css'; 
-import { HPage1, HPage10, HPage11, HPage2, HPage3, HPage4, HPage5, HPage6, HPage7,HPage8,HPage9} from './Componet/HollywoodMovePage';
+import { HPage1, HPage10, HPage11, HPage12, HPage13, HPage14, HPage15, HPage16, HPage17, HPage2, HPage3, HPage4, HPage5, HPage6, HPage7,HPage8,HPage9} from './Componet/HollywoodMovePage';
 import { Login} from './Componet/LoginALLFiles';
 import { HollywoodPage10, HollywoodPage11, HollywoodPage12, HollywoodPage13, HollywoodPage14, HollywoodPage15, HollywoodPage16, HollywoodPage17, HollywoodPage18, HollywoodPage19, HollywoodPage2, HollywoodPage20, HollywoodPage3, HollywoodPage4, HollywoodPage5, HollywoodPage6, HollywoodPage7, HollywoodPage8, HollywoodPage9} from './Componet/HollywoodPage';
 import { Bollywood, Hollywood, SouthMovie,WebSeries } from './Componet/MovieCatgares';
@@ -103,6 +103,12 @@ function App() {
       <Route path='/Architecture' element={<HPage9/>}></Route>
       <Route path='/RvResurrectedVictims' element={<HPage10/>}></Route>
       <Route path='/ProjectLegion' element={<HPage11/>}></Route>
+      <Route path='/ThePerfectNanny' element={<HPage12/>}></Route>
+      <Route path='/MirrorMirror' element={<HPage13/>}></Route>
+      <Route path='/MeanGirls' element={<HPage14/>}></Route>
+      <Route path='/MafiaMamma' element={<HPage15/>}></Route>
+      <Route path='/LiesBeneathTheSurface' element={<HPage16/>}></Route>
+      <Route path='/HitMan' element={<HPage17/>}></Route>
     </Routes>
 
     </>

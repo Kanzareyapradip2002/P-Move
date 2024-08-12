@@ -642,6 +642,404 @@ const HPage3 = () =>{
      </>
    )
  }
+ const HPage12 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/ThePerfectNanny6.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/18LB_C1iXMDa6_vdGhGvHvlFNEOgCuz1x/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>The Perfect Nanny</h3>
+       <ul>
+       <li>Directed by:	Robert Malenfant</li>
+         <li>Written by:Mark Castaldo<br/>Victor H. Schiller<br/>Christine Conradt<br/>Richard Gilbert Hill</li>
+         <li>Music by:	Richard Bowers</li>
+         <li>Producer: 	Pierre David</li>
+         <li>Release dates :March 16, 2001</li>
+         <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ess6c2oTLdU'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ess6c2oTLdU'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ess6c2oTLdU'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ess6c2oTLdU'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage13 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/MirrorMirror16.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1-_FGWJNPqeeTlEpJAwIypX_rYep90ZmN/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Mirror Mirror</h3>
+       <ul>
+       <li>Directed by:	Tarsem Singh</li>
+         <li>Edited by:Robert Duffy<br/>Nick Moore</li>
+         <li>Music by:	Alan Menken</li>
+         <li>Production:Relativity Media</li>
+         <li>Release dates :March 30, 2012</li>
+         <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ILDeA7AqA84&t=8s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ILDeA7AqA84&t=8s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ILDeA7AqA84&t=8s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=ILDeA7AqA84&t=8s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage14 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/MeanGirls15.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1hbP7gfUZKW5wZMt5i_EF6f1byTWHhcAf/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Mean  Girls</h3>
+       <ul>
+       <li>Directed by:	Mark Waters</li>
+         <li>Edited by:	Wendy Greene Bricmont</li>
+         <li>Music by:	Rolfe Kent</li>
+         <li>Production:Broadway Video</li>
+         <li>Release dates: April 19, 2004</li>
+         <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=dCrLCATfeZA&list=PLDe2Cd0wQXaGoOEitu0A5u2twBuYtX8fu'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=dCrLCATfeZA&list=PLDe2Cd0wQXaGoOEitu0A5u2twBuYtX8fu'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=dCrLCATfeZA&list=PLDe2Cd0wQXaGoOEitu0A5u2twBuYtX8fu'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=dCrLCATfeZA&list=PLDe2Cd0wQXaGoOEitu0A5u2twBuYtX8fu'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage15 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/MafiaMamma14.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1-_FGWJNPqeeTlEpJAwIypX_rYep90ZmN/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Mafia Mamma</h3>
+       <ul>
+       <li>Directed by:	Catherine Hardwicke</li>
+         <li>Edited by:	Waldemar Centeno</li>
+         <li>Music by:	Alex Heffes</li>
+         <li>Production:Ingenious Media</li>
+         <li>Release dates:April 14, 2023</li>
+         <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=e2UNT1pLP6g'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=e2UNT1pLP6g'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=e2UNT1pLP6g'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=e2UNT1pLP6g'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage16 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/LiesBeneathTheSurface22.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/16qsI5IdS6B9mjmKjx2P9rhskt2J061Jv/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Lies Beneath The Surface</h3>
+       <ul>
+       <li>Directed by : 	Wes Ball</li>
+        <li>Written by	: 	Josh Friedman</li>
+        <li>Edited by	: Dan Zimmerman<br/> Dirk Westervelt</li>
+        <li>Distributed by : Century Studios </li>
+        <li>Release dates :	May 2, 2022</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=j_bpFleB2yM'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=j_bpFleB2yM'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=j_bpFleB2yM'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=j_bpFleB2yM'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage17 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/HitMan13.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1pbjsUL7hMeuxgbDLZy1g6ScBJsHR1GI5/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Hit Man</h3>
+       <ul>
+       <li>Directed by : 	Wes Ball</li>
+        <li>Written by	: 	Josh Friedman</li>
+        <li>Edited by	: Dan Zimmerman<br/> Dirk Westervelt</li>
+        <li>Distributed by : Century Studios </li>
+        <li>Release dates :	May 2, 2014</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
+ const HPage18 = () =>{
+  return(
+     <>
+     <img className='img1' src={require("./img/GuaroiansGalaxy3.jpg")} alt="" />
+     <div>
+       <button className='ButtanDownloads'><a className='Buttan' href="https://drive.google.com/file/d/1hahuautvE_ErjAIczW3OkmgNYm2mFRA_/view?usp=drivesdk">Watch</a></button>
+     </div>
+     <div className='informasin'>
+       <h3>Guaroians Galaxy 3</h3>
+       <ul>
+       <li>Directed by:	James Gunn</li>
+        <li>Written by:	James Gunn</li>
+        <li>Edited by	: Dan Zimmerman<br/> Dirk Westervelt</li>
+        <li>Distributed by : Century Studios </li>
+        <li>Release dates :	May 2, 2014</li>
+        <li>Qulatiy: 1024 Print </li>
+       </ul>
+     </div>
+     <div className='player'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={420}
+           width={770} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player1'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={320}
+           width={670} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player2'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={220}
+           width={400} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div>
+     <div className='player3'>
+         <ReactPlayer
+           className='react-player'
+           url='https://www.youtube.com/watch?v=W5-3VmIgraY&t=32s'
+           height={180}
+           width={300} 
+         />
+         <div className='text-Title'>Watch The Full Movie Click The Watch Buttan </div>
+     </div> 
+     </>
+   )
+ }
  
- 
-export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11}
+export {HPage1,HPage2,HPage3,HPage4,HPage5,HPage6,HPage7,HPage8,HPage9,HPage10,HPage11,HPage12,HPage13,HPage14,HPage15,HPage16,HPage17,HPage18}

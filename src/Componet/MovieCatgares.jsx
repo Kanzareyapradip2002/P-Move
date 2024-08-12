@@ -76,40 +76,40 @@ const Hollywood = () => {
     <h6>Release:2022</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/ThePerfectNanny">
+    <img className="card-img" src={require("./img/ThePerfectNanny6.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2001</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/MirrorMirror">
+    <img className="card-img" src={require("./img/MirrorMirror16.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2012</h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/MeanGirls">
+    <img className="card-img" src={require("./img/MeanGirls15.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2004 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/MafiaMamma">
+    <img className="card-img" src={require("./img/MafiaMamma14.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2023 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/LiesBeneathTheSurface">
+    <img className="card-img" src={require("./img/LiesBeneathTheSurface22.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2022 </h6>
     </div>
     <div className='card'>
-    <Link to="/">
-    <img className="card-img" src={require("./img/logo.jpg")} alt="" />
+    <Link to="/HitMan">
+    <img className="card-img" src={require("./img/HitMan13.jpg")} alt="" />
     </Link>
-    <h6>Release: </h6>
+    <h6>Release:2014</h6>
     </div>
     <div className='card'>
     <Link to="/">
